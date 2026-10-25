@@ -1,0 +1,48 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+.gradle_repo
+
+# other
+eclipse
+run
+run-*
+run-data
+
+# 开发环境运行文件
+.first_run_lock
+runtime/
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# 本地依赖：MCEF 由使用者自行下载（见 README）
+libs/
+
+# 编译产物与工具二进制
+*.exe
+tools/*.exe
+
+# 压缩包
+*.rar
+*.zip
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
