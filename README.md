@@ -1,4 +1,5 @@
-![Uploading f2704ef2183e8fc303208779e5c5fd8b.jpg…]()
+<img width="1920" height="1200" alt="f2704ef2183e8fc303208779e5c5fd8b" src="https://github.com/user-attachments/assets/1a8c25bf-126e-46f7-9b67-c5a48123e818" />
+
 # 联网战士蓝图酱 · Schematic Fighter
 
 在机械动力的**蓝图桌**界面里内嵌一个浏览器，直接浏览在线蓝图站、点击下载，蓝图就会存进你的 `schematics` 文件夹——不用切出游戏，不用手动找目录。
