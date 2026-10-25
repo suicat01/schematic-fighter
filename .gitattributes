@@ -1,0 +1,21 @@
+# 统一按 LF 存储，检出时再按平台转换
+* text=auto
+
+# Windows 脚本必须用 CRLF，否则无法执行
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Unix 脚本保持 LF
+gradlew text eol=lf
+*.sh text eol=lf
+
+# Disable autocrlf on generated files, they always generate with LF
+src/generated/**/.cache/cache text eol=lf
+src/generated/**/*.json text eol=lf
+
+# 二进制文件不做转换
+*.png binary
+*.jar binary
+*.exe binary
+*.rar binary
+*.zip binary
