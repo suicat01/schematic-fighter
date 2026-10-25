@@ -1,0 +1,19 @@
+{
+  "gui.schematicgrab.open_browser": "联网战士蓝图酱 · 浏览在线蓝图",
+  "gui.schematicgrab.browser.title": "联网战士蓝图酱",
+  "gui.schematicgrab.browser.back": "后退",
+  "gui.schematicgrab.browser.home": "首页",
+  "gui.schematicgrab.browser.reload": "刷新",
+  "gui.schematicgrab.browser.done": "完成",
+  "gui.schematicgrab.browser.unavailable": "网页浏览器不可用：请安装 MCEF (1.20.1 Forge)",
+  "gui.schematicgrab.browser.hint": "点击网页中的下载按钮，蓝图会存入 schematics 文件夹",
+  "gui.schematicgrab.browser.settings": "设置 · 切换站点",
+  "gui.schematicgrab.picker.title": "联网战士蓝图酱 · 选择蓝图站",
+  "gui.schematicgrab.picker.presets": "预设站点",
+  "gui.schematicgrab.picker.custom": "自定义网址",
+  "gui.schematicgrab.picker.custom_hint": "输入网址，例如 mcstool.com/blueprints?mod=create",
+  "gui.schematicgrab.picker.open_custom": "打开自定义网址",
+  "gui.schematicgrab.picker.cancel": "取消",
+  "gui.schematicgrab.picker.invalid": "网址无效，请检查后重试",
+  "gui.schematicgrab.picker.current": "当前默认站点：%s"
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.schematicgrab.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "refmap": "schematicgrab.refmap.json",
+  "client": [
+    "SchematicTableScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

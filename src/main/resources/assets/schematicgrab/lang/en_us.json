@@ -1,0 +1,19 @@
+{
+  "gui.schematicgrab.open_browser": "Schematic Fighter - Browse Online Blueprints",
+  "gui.schematicgrab.browser.title": "Schematic Fighter",
+  "gui.schematicgrab.browser.back": "Back",
+  "gui.schematicgrab.browser.home": "Home",
+  "gui.schematicgrab.browser.reload": "Reload",
+  "gui.schematicgrab.browser.done": "Done",
+  "gui.schematicgrab.browser.unavailable": "Browser unavailable: please install MCEF (1.20.1 Forge)",
+  "gui.schematicgrab.browser.hint": "Click a Download button in the page; the schematic is saved to your schematics folder",
+  "gui.schematicgrab.browser.settings": "Settings - Switch Site",
+  "gui.schematicgrab.picker.title": "Schematic Fighter - Choose a Blueprint Site",
+  "gui.schematicgrab.picker.presets": "Preset Sites",
+  "gui.schematicgrab.picker.custom": "Custom URL",
+  "gui.schematicgrab.picker.custom_hint": "Enter a URL, e.g. mcstool.com/blueprints?mod=create",
+  "gui.schematicgrab.picker.open_custom": "Open Custom URL",
+  "gui.schematicgrab.picker.cancel": "Cancel",
+  "gui.schematicgrab.picker.invalid": "Invalid URL, please check and try again",
+  "gui.schematicgrab.picker.current": "Current default site: %s"
+}
